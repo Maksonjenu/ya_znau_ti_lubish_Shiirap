@@ -1,0 +1,15 @@
+C:\Users\geniu\source\repos\ribka\ribka\bin\Debug\ribka.exe.config
+C:\Users\geniu\source\repos\ribka\ribka\bin\Debug\ribka.exe
+C:\Users\geniu\source\repos\ribka\ribka\bin\Debug\ribka.pdb
+C:\Users\geniu\source\repos\ribka\ribka\obj\Debug\ribka.csprojAssemblyReference.cache
+C:\Users\geniu\source\repos\ribka\ribka\obj\Debug\MainWindow.g.cs
+C:\Users\geniu\source\repos\ribka\ribka\obj\Debug\App.g.cs
+C:\Users\geniu\source\repos\ribka\ribka\obj\Debug\ribka_MarkupCompile.cache
+C:\Users\geniu\source\repos\ribka\ribka\obj\Debug\ribka_MarkupCompile.lref
+C:\Users\geniu\source\repos\ribka\ribka\obj\Debug\MainWindow.baml
+C:\Users\geniu\source\repos\ribka\ribka\obj\Debug\ribka.g.resources
+C:\Users\geniu\source\repos\ribka\ribka\obj\Debug\ribka.Properties.Resources.resources
+C:\Users\geniu\source\repos\ribka\ribka\obj\Debug\ribka.csproj.GenerateResource.cache
+C:\Users\geniu\source\repos\ribka\ribka\obj\Debug\ribka.csproj.CoreCompileInputs.cache
+C:\Users\geniu\source\repos\ribka\ribka\obj\Debug\ribka.exe
+C:\Users\geniu\source\repos\ribka\ribka\obj\Debug\ribka.pdb
